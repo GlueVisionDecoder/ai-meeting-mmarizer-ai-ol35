@@ -1,4 +1,4 @@
-# 
+# Inteligente AI Code Review Assistant modelos. Com detecção de objetos e otimização de modelos — otimizado para máximo desempenho.
 
 
 
